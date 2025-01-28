@@ -11,12 +11,11 @@ The proportion of teachers who are leaving the profession annually has increased
 
 ![image](https://github.com/user-attachments/assets/8230b41a-6474-447f-b2f2-d7e66db01723)
 
-Special schools have the highest rates of teachers leaving the profession and secondary schools have the lowest, but phase seems to be a much less important factor than governance type. Within each phase, the rate at which teachers leave the profession is highest in free schools, followed by Academies, and local authority-maintained schools have the lowest rates of teachers leaving the profession. In free special schools, the rate of leaving the profession is an alarming 13.4%, compared to 9.1% in local authority maintained special schools. 
+Special schools have the highest rates of teachers leaving the profession and secondary schools have the lowest, but phase seems to be a much less important factor than governance type. Within each phase, the rate at which teachers leave the profession and the rate at which they change school is highest in free schools, followed by academies, and local authority maintained schools have the lowest rates of teachers leaving the profession. In free special schools, the rate of leaving the profession is an alarming 13.4%, compared to 9.1% in local authority maintained special schools. 
 
 ![image](https://github.com/user-attachments/assets/9a97e75b-64fe-40d2-91da-1a899317c52a)
  
-Teachers in schools with higher levels of pupil eligibility for free school meals are more likely to leave the profession. This trend is particularly pronounced among secondary schools. In primary schools with the fewest pupils who were eligible for free school meals, 8.9% of teachers left the profession, compared to 8.6% in secondary schools. Among primary schools with the most pupils eligible for free school meals, 10.0% of teachers left the profession, compared to 10.6% in secondary schools. 
- 
-![image](https://github.com/user-attachments/assets/83bfc363-cbbf-4fcd-a0c3-9c5e061f5d88)
+![image](https://github.com/user-attachments/assets/7d780517-9a43-411a-8e75-a36dd63f71c9)
+
 
 _January 2025_

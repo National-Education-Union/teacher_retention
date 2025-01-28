@@ -13,9 +13,9 @@ The proportion of teachers who are leaving the profession annually has increased
 
 Special schools have the highest rates of teachers leaving the profession and secondary schools have the lowest, but phase seems to be a much less important factor than governance type. Within each phase, the rate at which teachers leave the profession and the rate at which they change school is highest in free schools, followed by academies, and local authority maintained schools have the lowest rates of teachers leaving the profession. In free special schools, the rate of leaving the profession is an alarming 13.4%, compared to 9.1% in local authority maintained special schools. 
 
-![image](https://github.com/user-attachments/assets/9a97e75b-64fe-40d2-91da-1a899317c52a)
+![image](https://github.com/user-attachments/assets/12de79cc-81bc-4b87-b703-50884872646b)
  
-![image](https://github.com/user-attachments/assets/7d780517-9a43-411a-8e75-a36dd63f71c9)
+![image](https://github.com/user-attachments/assets/ac84d6f3-f485-49b3-a7e6-7ad89bd90c11)
 
 
 _January 2025_
